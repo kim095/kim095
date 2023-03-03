@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kim095
-- 👀 I’m interested in NLP & Web Front end
+- 👀 I’m interested in NLP & Web Front end & Java language
 - 🌱 I’m currently learning NLP and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
